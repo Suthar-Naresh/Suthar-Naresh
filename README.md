@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suthar-Naresh
 - 👀 I’m interested in development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m ready to help in projects
 - 📫 How to reach me -> via github
 
 <!---
